@@ -1,7 +1,7 @@
 # image-flashing
 
-# 1차시
-
+ 1차시
+=
 - 1. sd카드를 sd card formatter 를 사용하여 포맷한다.  
 링크: https://www.sdcard.org/downloads/formatter/
 
