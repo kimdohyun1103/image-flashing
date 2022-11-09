@@ -1,3 +1,6 @@
+이미지 굽기
+=============================================================
+
 # image-flashing
 1. sd카드를 sd card formatter 를 사용하여 포맷한다.
 링크: https://www.sdcard.org/downloads/formatter/
